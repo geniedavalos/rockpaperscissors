@@ -1,0 +1,36 @@
+#title {
+  font-family: 'Lobster', cursive;
+  text-shadow: 3px 0 #232931;
+  color: #4ECCA3;
+  padding: 10px 10px 20px;
+  font-size: 6rem;
+}
+
+#table-header {
+  font-family: 'Lobster', cursive;
+  text-shadow: 3px 0 #232931;
+  color: #4ECCA3;
+  padding: 5px;
+  font-size: 4rem;
+}
+
+#body {
+  background-color: #ffeaa5;
+  text-align: center;
+}
+
+#btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #f2f2d5;
+  font-size: 30px;
+  background: #4ECCA3;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+#btn:hover {
+  background: #16946a text-decoration: none
+}
