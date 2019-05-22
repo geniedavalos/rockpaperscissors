@@ -52,7 +52,7 @@
     } else if (cpuHand === "rock" && userHand === "scissors") {
       document.getElementById("title").innerHTML = "🚩 Computer Won!";
     } else if (cpuHand === "paper" && userHand === "scissors") {
-      document.getElementById("title").innerHTML = "You won🚩";
+      document.getElementById("title").innerHTML = "You won 🚩";
     } else if (cpuHand === "paper" && userHand === "rock") {
       document.getElementById("title").innerHTML = "🚩 Computer Won!";
     } else if (cpuHand === "scissors" && userHand === "rock") {
